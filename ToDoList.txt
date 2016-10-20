@@ -1,0 +1,13 @@
+Everything?
+
+Let's start with:
+	Core
+	- Diagram
+	- Classes definitions
+
+	ServerSide
+	- Api choice
+
+	Website
+	- Index page
+	- General outline
